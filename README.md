@@ -36,7 +36,7 @@ How to be an Ideal Top Search React JS Front-End Engineer. <br/><br/>
 |               |             |             |             |               |
 |[Shoe.Seeker Apps](https://github.com/zhafranafif/Shoe.Seeker-Apps)|E-Commerce Apps for Sneakers|Reactjs, GraphQL, react-router-dom, react-toastify, bootstrap, NodeJS| Filtering, Detail Product, Add to cart, Delete from Cart|[Zhafran Afif](https://github.com/zhafranafif)|
 |               |             |             |             |               |
-| [Masakin](https://github.com/AffanAts/Masakin---Miniproject)|food recipe website from Indonesia|Reactjs, Axios, Rest API, react-router-dom, DiceBear, Redux, AOS, Boostrap, Firebase| Search Recipe, Comment |Affan Haidar Atstsabit|(https://github.com/AffanAts)
+| [Masakin](https://github.com/AffanAts/Masakin---Miniproject)|food recipe website from Indonesia|Reactjs, Axios, Rest API, react-router-dom, DiceBear, Redux, AOS, Boostrap, Firebase| Search Recipe, Comment |[Affan Haidar Atstsabit](https://github.com/AffanAts)|
 | [DGame](https://github.com/EgoSetiawan/mini_project)               | Meriview sebuah permain            | Reactjs, Graphql, MUI, react-slick, react- router-dom            | login,register,CRUD, comment            | [Teguh](https://github.com/EgoSetiawan)              |
 |               |             |             |             |               |
 | [zeHealth](https://github.com/agillstrz/React_Mini-Project_zeHealth) | website penjualan obat yang menjual obat dengan penyakit yang sering dikeluhkan oleh banyak orang. | Reactjs, GraphQL, TailwindCSS, Firebase, Hasura              | CRUD                                 | [Muhammad Agil](https://github.com/agillstrz) |
