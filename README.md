@@ -52,7 +52,7 @@ How to be an Ideal Top Search React JS Front-End Engineer. <br/><br/>
 |               |             |             |             |               |
 |               |             |             |             |               |
 |               |             |             |             |               |
-|               |             |             |             |               |
+| [Back-Stock](https://github.com/gozzafadillah/back-stock) | Back Stock merupakan aplikasi management stock grosir / toko kelontong. Merupakan hasil mini project batch 3 | Reactjs, GraphQL, Antd, react-router-dom, Apollo-Client, create-react-app, firebase | Register, Login, Forget Password, Upload Image, CRUD Product, Management Stock            |  [M Fadillah Abdul A](https://github.com/gozzafadillah)             |
 
 <br/>
 Wish you get inspired with our Reactjs projects. <br/>
