@@ -6,8 +6,6 @@ My beloved mentees are the contributors in Collection of Reactjs project.
 
 ## Content
 
-- [Collection of Reactjs project. 🎉](#collection-of-reactjs-project-)
-  - [Content](#content)
   - [Kampus Merdeka](#kampus-merdeka)
     - [Alterra Academy Batch 2](#alterra-academy-batch-2)
       - [Mini Project By React B](#mini-project-by-react-b)
