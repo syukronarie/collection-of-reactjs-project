@@ -40,7 +40,7 @@ How to be an Ideal Top Search React JS Front-End Engineer. <br/><br/>
 |               |             |             |             |               |
 |               |             |             |             |               |
 |               |             |             |             |               |
-|               |             |             |             |               |
+| [FilmKu](https://github.com/AbdullahNouvalShidqi/MiniProject-FilmKu) | Simplified Version of Movie/Series app for Users That Love Simplicity | ReactJS, GraphQL, Axios, Apollo, React-Router-Dom, React-redux, Redux-persist | Login, SignUp, See Movie/Series detail, Watch Trailer, Add to List with a certain status | [AbdullahNouvalShidqi](https://github.com/AbdullahNouvalShidqi) |
 |               |             |             |             |               |
 |               |             |             |             |               |
 |               |             |             |             |               |
