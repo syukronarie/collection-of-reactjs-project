@@ -46,7 +46,7 @@ How to be an Ideal Top Search React JS Front-End Engineer. <br/><br/>
 |               |             |             |             |               |
 |               |             |             |             |               |
 |               |             |             |             |               |
-|               |             |             |             |               |
+|[EAGLib](https://github.com/EagleEyes1/Mini-Project)               |EAGLib is a library web who provides all user can add books and download it for free that purpose to improve writer's skill and writer's exposure             |ReactJS, GraphQL, AntDesign, ReactBootstrap, Hasura and Apollo Client             |Login, CRUD, Search Bar, Pagination,             |[Fahd_Erlangga_B.M](https://github.com/EagleEyes1/)               |
 |               |             |             |             |               |
 |               |             |             |             |               |
 |               |             |             |             |               |
