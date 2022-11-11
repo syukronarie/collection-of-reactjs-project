@@ -33,7 +33,7 @@ How to be an Ideal Top Search React JS Front-End Engineer. <br/><br/>
 | [Project Name](https://github.com/example/example) | Example description | Reactjs, GraphQL, Axios, MUI, react-router-dom, react-helmet | login, register, CRUD, like, comment | [Example Name](https://github.com/example) |
 |               |             |             |             |               |
 |               |             |             |             |               |
-|               |             |             |             |               |
+| [DGame](https://github.com/EgoSetiawan/mini_project)               | Meriview sebuah permain            | Reactjs, Graphql, MUI, react-slick, react- router-dom            | login,register,CRUD, comment            | [Teguh](https://github.com/EgoSetiawan)              |
 |               |             |             |             |               |
 |               |             |             |             |               |
 |               |             |             |             |               |
