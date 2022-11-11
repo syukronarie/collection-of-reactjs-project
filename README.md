@@ -12,16 +12,16 @@ My beloved mentees are the contributors in Collection of Reactjs project.
   - [Alterra Academy - Batch 3](#alterra-academy-batch-3)
     - [Mini Project by React A](#mini-project-by-react-a)
 
-
 ## Kampus Merdeka
 
 ### Alterra Academy Batch 2
+
 How to be an Ideal Top Search React JS Front-End Engineer. <br/><br/>
 
 #### Mini Project By React B
 
-| Project Name                                         | Description              | Tech Stack                                                   | Features                                  | Owner                                               |
-| ---------------------------------------------------- | ------------------------ | ------------------------------------------------------------ | ----------------------------------------- | --------------------------------------------------- |
+| Project Name                                       | Description         | Tech Stack                                                   | Features                             | Owner                                      |
+| -------------------------------------------------- | ------------------- | ------------------------------------------------------------ | ------------------------------------ | ------------------------------------------ |
 | [Project Name](https://github.com/example/example) | Example description | Reactjs, GraphQL, Axios, MUI, react-router-dom, react-helmet | login, register, CRUD, like, comment | [Example Name](https://github.com/example) |
 
 ### Alterra Academy Batch 3
@@ -32,7 +32,7 @@ How to be an Ideal Top Search React JS Front-End Engineer. <br/><br/>
 | ---------------------------------------------------- | ------------------------ | ------------------------------------------------------------ | ----------------------------------------- | --------------------------------------------------- |
 | [Project Name](https://github.com/example/example) | Example description | Reactjs, GraphQL, Axios, MUI, react-router-dom, react-helmet | login, register, CRUD, like, comment | [Example Name](https://github.com/example) |
 | [angkutaja](https://github.com/m-mustakim-surya/angkutaja) | Aplikasi jasa pindahan | ReactJS, GraphQL, Apollo Client, react-router-dom, sweetalert2, react-number-format | CRUD | [M. Mustakim Surya](https://github.com/m-mustakim-surya) |
-|               |             |             |             |               |
+| [DuidTrackr.](https://github.com/moonix0/react_miniproject-duidtrackr) | Duidtrackr merupakan sebuah aplikasi untuk mencatat semua pengeluaran dan pendapatan yang dilakukan oleh user, serta merekap semua pengeluaran dan pendapatan. | ViteJS, ReactJS, GraphQL, Apollo Client, React-Router-DOM, React Toastify, Redux | Login/Register, CRUD, Recap All Transaction | [Erwin Purnomo](https://github.com/moonix0) |
 |               |             |             |             |               |
 |[Shoe.Seeker Apps](https://github.com/zhafranafif/Shoe.Seeker-Apps)|E-Commerce Apps for Sneakers|Reactjs, GraphQL, react-router-dom, react-toastify, bootstrap, NodeJS| Filtering, Detail Product, Add to cart, Delete from Cart|[Zhafran Afif](https://github.com/zhafranafif)|
 |               |             |             |             |               |
