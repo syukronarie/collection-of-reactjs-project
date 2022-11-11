@@ -38,7 +38,7 @@ How to be an Ideal Top Search React JS Front-End Engineer. <br/><br/>
 |               |             |             |             |               |
 |               |             |             |             |               |
 |               |             |             |             |               |
-|               |             |             |             |               |
+| [Diariku](https://github.com/daffadmr/diariku)| Diariku is a website for writing your toughts and other things that you want to write | ReactJS, GraphQL, Apollo, Tailwind, Firebase, Hasura, and many more. | Fake Auth, CRUD, Filter by Date, Filter by Search |[Daffa Damar Ardhika](https://github.com/daffadmr/) |
 |               |             |             |             |               |
 | [FilmKu](https://github.com/AbdullahNouvalShidqi/MiniProject-FilmKu) | Simplified Version of Movie/Series app for Users That Love/Prefer Simplicity | ReactJS, GraphQL, Axios, Apollo, React-Router-Dom, React-redux, Redux-persist | Login, SignUp, See Movie/Series detail, Watch Trailer, Add to List with a certain status | [AbdullahNouvalShidqi](https://github.com/AbdullahNouvalShidqi) |
 |[Dynamic portfolio website](https://github.com/mochammadilham06/Dynamic-Portfolio-Website)|This Portfolio Website Project was created as a material for applying the knowledge I have learned             |Reactjs, GraphQL, Apollo-client, Tailwind CSS, React-router-dom, React-helmet, AOS, Flowbite, Firebase, Sweetalert             |Login, CRUD, Protected Routes, Privates-routes, Detail-page             |[Mochammad Ilham Maulana](https://github.com/mochammadilham06)                  |
