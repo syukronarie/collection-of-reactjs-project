@@ -49,7 +49,8 @@ How to be an Ideal Top Search React JS Front-End Engineer. <br/><br/>
 |               |             |             |             |               |
 |               |             |             |             |               |
 |               |             |             |             |               |
-|               |             |             |             |               |
+| celengin      | Celengin adalah aplikasi financial tracker. Namun, celengin berfokus pada monitoring tabungan, membantu user menggapai keinginannya sesuai target yang ditentukan diawal. Menabung menjadi lebih efektif dengan celengin, celengin aja dulu!
+ | ReactJS, MUI, JoyUI, GraphQL, Axios, react-router-dom, react-helmet, Redux-toolkit, EmailJS, BcryptJS, Hasura, react-use-debounce | login, register, CRUD, feedback, review | [Anang Khoirul Fadli](https://github.com/anangkf/) |
 |               |             |             |             |               |
 |               |             |             |             |               |
 |               |             |             |             |               |
