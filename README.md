@@ -48,7 +48,7 @@ How to be an Ideal Top Search React JS Front-End Engineer. <br/><br/>
 |               |             |             |             |               |
 |               |             |             |             |               |
 |               |             |             |             |               |
-|               |             |             |             |               |
+| [Kumikyu](https://github.com/afauzann/mini_project_alterra) | Kumikyu adalah Tempat E-Commerce untuk Komik | Reactjs, GraphQL, React-Strap, AntDesign, Hasura, FireBase, Apollo, React-Router, React-Intl | Input Product, Update Product, Delete Product, Search, Filter by Genre, Pagination | [Ahmad Fauzan](https://github.com/afauzann) |
 |               |             |             |             |               |
 |               |             |             |             |               |
 |               |             |             |             |               |
