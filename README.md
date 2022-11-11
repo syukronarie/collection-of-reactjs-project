@@ -12,47 +12,47 @@ My beloved mentees are the contributors in Collection of Reactjs project.
   - [Alterra Academy - Batch 3](#alterra-academy-batch-3)
     - [Mini Project by React A](#mini-project-by-react-a)
 
-
 ## Kampus Merdeka
 
 ### Alterra Academy Batch 2
+
 How to be an Ideal Top Search React JS Front-End Engineer. <br/><br/>
 
 #### Mini Project By React B
 
-| Project Name                                         | Description              | Tech Stack                                                   | Features                                  | Owner                                               |
-| ---------------------------------------------------- | ------------------------ | ------------------------------------------------------------ | ----------------------------------------- | --------------------------------------------------- |
+| Project Name                                       | Description         | Tech Stack                                                   | Features                             | Owner                                      |
+| -------------------------------------------------- | ------------------- | ------------------------------------------------------------ | ------------------------------------ | ------------------------------------------ |
 | [Project Name](https://github.com/example/example) | Example description | Reactjs, GraphQL, Axios, MUI, react-router-dom, react-helmet | login, register, CRUD, like, comment | [Example Name](https://github.com/example) |
 
 ### Alterra Academy Batch 3
 
 #### Mini Project by React A
 
-| Project Name                                         | Description              | Tech Stack                                                   | Features                                  | Owner                                               |
-| ---------------------------------------------------- | ------------------------ | ------------------------------------------------------------ | ----------------------------------------- | --------------------------------------------------- |
-| [Project Name](https://github.com/example/example) | Example description | Reactjs, GraphQL, Axios, MUI, react-router-dom, react-helmet | login, register, CRUD, like, comment | [Example Name](https://github.com/example) |
-|               |             |             |             |               |
-|               |             |             |             |               |
-|               |             |             |             |               |
-|               |             |             |             |               |
-|               |             |             |             |               |
-|               |             |             |             |               |
-|               |             |             |             |               |
-|               |             |             |             |               |
-|               |             |             |             |               |
-|               |             |             |             |               |
-|               |             |             |             |               |
-|               |             |             |             |               |
-|               |             |             |             |               |
-|               |             |             |             |               |
-|               |             |             |             |               |
-|               |             |             |             |               |
-|               |             |             |             |               |
-|               |             |             |             |               |
-|               |             |             |             |               |
-|               |             |             |             |               |
-|               |             |             |             |               |
-|               |             |             |             |               |
+| Project Name                                                              | Description                                                                                        | Tech Stack                                                   | Features                             | Owner                                         |
+| ------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------ | --------------------------------------------- |
+| [Project Name](https://github.com/example/example)                        | Example description                                                                                | Reactjs, GraphQL, Axios, MUI, react-router-dom, react-helmet | login, register, CRUD, like, comment | [Example Name](https://github.com/example)    |
+|                                                                           |                                                                                                    |                                                              |                                      |                                               |
+|                                                                           |                                                                                                    |                                                              |                                      |                                               |
+|                                                                           |                                                                                                    |                                                              |                                      |                                               |
+|                                                                           |                                                                                                    |                                                              |                                      |                                               |
+|                                                                           |                                                                                                    |                                                              |                                      |                                               |
+|                                                                           |                                                                                                    |                                                              |                                      |                                               |
+|                                                                           |                                                                                                    |                                                              |                                      |                                               |
+|                                                                           |                                                                                                    |                                                              |                                      |                                               |
+|                                                                           |                                                                                                    |                                                              |                                      |                                               |
+|                                                                           |                                                                                                    |                                                              |                                      |                                               |
+| [zeHealth Name](https://github.com/agillstrz/React_Mini-Project_zeHealth) | website penjualan obat yang menjual obat dengan penyakit yang sering dikeluhkan oleh banyak orang. | eactJs, GraphQL, TailwindCSS, Firebase, Hasura               | CRUD                                 | [Muhammad Agil](https://github.com/agillstrz) |
+|                                                                           |                                                                                                    |                                                              |                                      |                                               |
+|                                                                           |                                                                                                    |                                                              |                                      |                                               |
+|                                                                           |                                                                                                    |                                                              |                                      |                                               |
+|                                                                           |                                                                                                    |                                                              |                                      |                                               |
+|                                                                           |                                                                                                    |                                                              |                                      |                                               |
+|                                                                           |                                                                                                    |                                                              |                                      |                                               |
+|                                                                           |                                                                                                    |                                                              |                                      |                                               |
+|                                                                           |                                                                                                    |                                                              |                                      |                                               |
+|                                                                           |                                                                                                    |                                                              |                                      |                                               |
+|                                                                           |                                                                                                    |                                                              |                                      |                                               |
+|                                                                           |                                                                                                    |                                                              |                                      |                                               |
 
 <br/>
 Wish you get inspired with our Reactjs projects. <br/>
