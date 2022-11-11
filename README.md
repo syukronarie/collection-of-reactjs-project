@@ -6,11 +6,11 @@ My beloved mentees are the contributors in Collection of Reactjs project.
 
 ## Content
 
-- [Kampus Merdeka](#kampus-merdeka)
-  - [Alterra Academy - Batch 2](#alterra-academy-batch-2)
-    - [Mini Project by React B](#mini-project-by-react-b)
-  - [Alterra Academy - Batch 3](#alterra-academy-batch-3)
-    - [Mini Project by React A](#mini-project-by-react-a)
+  - [Kampus Merdeka](#kampus-merdeka)
+    - [Alterra Academy Batch 2](#alterra-academy-batch-2)
+      - [Mini Project By React B](#mini-project-by-react-b)
+    - [Alterra Academy Batch 3](#alterra-academy-batch-3)
+      - [Mini Project by React A](#mini-project-by-react-a)
 
 ## Kampus Merdeka
 
@@ -44,7 +44,7 @@ How to be an Ideal Top Search React JS Front-End Engineer. <br/><br/>
 |[Dynamic portfolio website](https://github.com/mochammadilham06/Dynamic-Portfolio-Website)|This Portfolio Website Project was created as a material for applying the knowledge I have learned             |Reactjs, GraphQL, Apollo-client, Tailwind CSS, React-router-dom, React-helmet, AOS, Flowbite, Firebase, Sweetalert             |Login, CRUD, Protected Routes, Privates-routes, Detail-page             |[Mochammad Ilham Maulana](https://github.com/mochammadilham06)                  |
 |               |             |             |             |               |
 |               |             |             |             |               |
-|               |             |             |             |               |
+| [Website Artikel Sekolah Dasar](https://github.com/Skmnkn/Miniproject-School-Article) | Website Artikel pada sekolah dasar, dan berguna sebagai web profil sekolah | Reactjs, GraphQL, Apollo Client,Flowbite, react-router-dom, react-helmet, tailwind css, fortawesome, firebase, sweetalert2, react-scroll-to-top, js-cookie, react-moment | login, CRUD, auth, firebase storage | [Rizky Nurfauzi / Skmnkn](https://github.com/Skmnkn) |
 |[Skuy Prau](https://github.com/Septian182000/skuy-prau)               |Skuy prau adalah website informasi tentang pendakian digunung prau dan merupakan hasil miniproject batch 3            |React js, RestApi, Axios, React PWA, Helmet, Boostrap, React-router-dom              | CRUD, Review, Filtering             |[Kennedy](https://github.com/Septian182000)              |
 |               |             |             |             |               |
 |[EAGLib](https://github.com/EagleEyes1/Mini-Project)               |EAGLib is a library web who provides all user can add books and download it for free that purpose to improve writer's skill and writer's exposure             |ReactJS, GraphQL, AntDesign, ReactBootstrap, Hasura and Apollo Client             |Login, CRUD, Search Bar, Pagination,             |[Fahd_Erlangga_B.M](https://github.com/EagleEyes1/)               |
