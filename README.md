@@ -34,7 +34,7 @@ How to be an Ideal Top Search React JS Front-End Engineer. <br/><br/>
 |               |             |             |             |               |
 |               |             |             |             |               |
 |               |             |             |             |               |
-|[Shoe.Seeler Apps](https://github.com/zhafranafif/Shoe.Seeker-Apps)|E-Commerce Apps for Sneakers|Reactjs, GraphQL, react-router-dom, react-toastify, bootstrap, NodeJS| Filtering, Detail Product, Add to cart, Delete from Cart|[Zhafran Afif](https://github.com/zhafranafif)|
+|[Shoe.Seeker Apps](https://github.com/zhafranafif/Shoe.Seeker-Apps)|E-Commerce Apps for Sneakers|Reactjs, GraphQL, react-router-dom, react-toastify, bootstrap, NodeJS| Filtering, Detail Product, Add to cart, Delete from Cart|[Zhafran Afif](https://github.com/zhafranafif)|
 |               |             |             |             |               |
 |               |             |             |             |               |
 |               |             |             |             |               |
