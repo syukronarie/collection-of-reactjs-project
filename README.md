@@ -37,7 +37,7 @@ How to be an Ideal Top Search React JS Front-End Engineer. <br/><br/>
 |[Shoe.Seeker Apps](https://github.com/zhafranafif/Shoe.Seeker-Apps)|E-Commerce Apps for Sneakers|Reactjs, GraphQL, react-router-dom, react-toastify, bootstrap, NodeJS| Filtering, Detail Product, Add to cart, Delete from Cart|[Zhafran Afif](https://github.com/zhafranafif)|
 |               |             |             |             |               |
 |               |             |             |             |               |
-|               |             |             |             |               |
+| [DGame](https://github.com/EgoSetiawan/mini_project)               | Meriview sebuah permain            | Reactjs, Graphql, MUI, react-slick, react- router-dom            | login,register,CRUD, comment            | [Teguh](https://github.com/EgoSetiawan)              |
 |               |             |             |             |               |
 | [zeHealth](https://github.com/agillstrz/React_Mini-Project_zeHealth) | website penjualan obat yang menjual obat dengan penyakit yang sering dikeluhkan oleh banyak orang. | Reactjs, GraphQL, TailwindCSS, Firebase, Hasura              | CRUD                                 | [Muhammad Agil](https://github.com/agillstrz) |
 | [FilmKu](https://github.com/AbdullahNouvalShidqi/MiniProject-FilmKu) | Simplified Version of Movie/Series app for Users That Love/Prefer Simplicity | ReactJS, GraphQL, Axios, Apollo, React-Router-Dom, React-redux, Redux-persist | Login, SignUp, See Movie/Series detail, Watch Trailer, Add to List with a certain status | [AbdullahNouvalShidqi](https://github.com/AbdullahNouvalShidqi) |
