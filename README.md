@@ -23,6 +23,7 @@ How to be an Ideal Top Search React JS Front-End Engineer. <br/><br/>
 | Project Name                                       | Description         | Tech Stack                                                   | Features                             | Owner                                      |
 | -------------------------------------------------- | ------------------- | ------------------------------------------------------------ | ------------------------------------ | ------------------------------------------ |
 | [Project Name](https://github.com/example/example) | Example description | Reactjs, GraphQL, Axios, MUI, react-router-dom, react-helmet | login, register, CRUD, like, comment | [Example Name](https://github.com/example) |
+| [netmin](https://github.com/nibnualdi/mini-project_Ibnu-Aldi-Nugroho/tree/main/chatting-app) | netmin is just a chat app like the other chat app, but it's more simple (just 2 way communication) | Reactjs, GraphQL, react-router-dom, Apollo-Client, Chakra-UI | Register, Login, Find A User, Chat A User, Search Messages | [Ibnu Aldi Nugroho](https://github.com/nibnualdi) |
 
 ### Alterra Academy Batch 3
 
@@ -54,7 +55,6 @@ How to be an Ideal Top Search React JS Front-End Engineer. <br/><br/>
 |               |             |             |             |               |
 |[LiveArticle](https://github.com/mujibur-rohman/live-blog)| Live Article adalah aplikasi yang menyediakan artikel atau tentang sesuatu topik khusus, artikel dalam aplikasi ini hanya terdiri dari teks, karena tujuan dari aplikasi ini agar penulis dapat menuangkan ide karya tulisnya seperti puisi, cerpen, dll. | Apollo, Tailwind, Firebase, Formik, React | Authentication, Follow dan Unfollow, CRUD Article, Comment, Views, Search | [Muji Burrohman](https://github.com/mujibur-rohman) |
 | [Back-Stock](https://github.com/gozzafadillah/back-stock) | Back Stock merupakan aplikasi management stock grosir / toko kelontong. Merupakan hasil mini project batch 3 | Reactjs, GraphQL, Antd, react-router-dom, Apollo-Client, create-react-app, firebase | Register, Login, Forget Password, Upload Image, CRUD Product, Management Stock            |  [M Fadillah Abdul A](https://github.com/gozzafadillah)             |
-| [netmin](https://github.com/nibnualdi/mini-project_Ibnu-Aldi-Nugroho/tree/main/chatting-app) | netmin is just a chat app like the other chat app, but it's more simple (just 2 way communication) | Reactjs, GraphQL, react-router-dom, Apollo-Client, Chakra-UI | Register, Login, Find A User, Chat A User, Search Messages | [Ibnu Aldi Nugroho](https://github.com/nibnualdi)             |
 
 <br/>
 Wish you get inspired with our Reactjs projects. <br/>
