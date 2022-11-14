@@ -23,6 +23,7 @@ How to be an Ideal Top Search React JS Front-End Engineer. <br/><br/>
 | Project Name                                       | Description         | Tech Stack                                                   | Features                             | Owner                                      |
 | -------------------------------------------------- | ------------------- | ------------------------------------------------------------ | ------------------------------------ | ------------------------------------------ |
 | [Project Name](https://github.com/example/example) | Example description | Reactjs, GraphQL, Axios, MUI, react-router-dom, react-helmet | login, register, CRUD, like, comment | [Example Name](https://github.com/example) |
+| [netmin](https://github.com/nibnualdi/mini-project_Ibnu-Aldi-Nugroho/tree/main/chatting-app) | netmin is just a chat app like the other chat app, but it's more simple (just 2 way communication) | Reactjs, GraphQL, react-router-dom, Apollo-Client, Chakra-UI | Register, Login, Find A User, Chat A User, Search Messages | [Ibnu Aldi Nugroho](https://github.com/nibnualdi) |
 
 ### Alterra Academy Batch 3
 
