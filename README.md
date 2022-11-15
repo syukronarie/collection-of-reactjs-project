@@ -6,11 +6,13 @@ My beloved mentees are the contributors in Collection of Reactjs project.
 
 ## Content
 
-- [Kampus Merdeka](#kampus-merdeka)
-  - [Alterra Academy - Batch 2](#alterra-academy-batch-2)
-    - [Mini Project by React B](#mini-project-by-react-b)
-  - [Alterra Academy - Batch 3](#alterra-academy-batch-3)
-    - [Mini Project by React A](#mini-project-by-react-a)
+- [Collection of Reactjs project. 🎉](#collection-of-reactjs-project-)
+  - [Content](#content)
+  - [Kampus Merdeka](#kampus-merdeka)
+    - [Alterra Academy Batch 2](#alterra-academy-batch-2)
+      - [Mini Project By React B](#mini-project-by-react-b)
+    - [Alterra Academy Batch 3](#alterra-academy-batch-3)
+      - [Mini Project by React A](#mini-project-by-react-a)
 
 ## Kampus Merdeka
 
@@ -20,9 +22,11 @@ How to be an Ideal Top Search React JS Front-End Engineer. <br/><br/>
 
 #### Mini Project By React B
 
-| Project Name                                       | Description         | Tech Stack                                                   | Features                             | Owner                                      |
-| -------------------------------------------------- | ------------------- | ------------------------------------------------------------ | ------------------------------------ | ------------------------------------------ |
-| [Project Name](https://github.com/example/example) | Example description | Reactjs, GraphQL, Axios, MUI, react-router-dom, react-helmet | login, register, CRUD, like, comment | [Example Name](https://github.com/example) |
+| Project Name                                                                                 | Description                                                                                                                                                                             | Tech Stack                                                   | Features                                                                                                              | Owner                                                       |
+| -------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
+| [Project Name](https://github.com/example/example)                                           | Example description                                                                                                                                                                     | Reactjs, GraphQL, Axios, MUI, react-router-dom, react-helmet | login, register, CRUD, like, comment                                                                                  | [Example Name](https://github.com/example)                  |
+| [netmin](https://github.com/nibnualdi/mini-project_Ibnu-Aldi-Nugroho/tree/main/chatting-app) | netmin is just a chat app like the other chat app, but it's more simple (just 2 way communication)                                                                                      | Reactjs, GraphQL, react-router-dom, Apollo-Client, Chakra-UI | Register, Login, Find A User, Chat A User, Search Messages                                                            | [Ibnu Aldi Nugroho](https://github.com/nibnualdi)           |
+| [I's journey website](https://github.com/Fauzihsan/portfolio_website_with_reactjs)           | I's journey website (Ihsan's journey website) is a simple website that describes an Ihsan Fauzi on his journey to become a developer by telling his experiences, awards, projects, etc. | Reactjs, GraphQL, Apollo-Client, Tailwind                    | Login, Manage Diary (CRUD), Manage Portfolio with multiple image (CRUD), Data Realtime with Subscription GraphQL, etc | [Muhammad Ihsan Fauzi Rahman](https://github.com/fauzihsan) |
 
 ### Alterra Academy Batch 3
 
